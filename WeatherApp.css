@@ -1,0 +1,86 @@
+input[type=text] {
+    width: 500px;
+  font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+     background-image: url("http://icons.iconarchive.com/icons/marcus-roberto/google-play/24/Google-Search-icon.png");
+      background-position:10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+input[type=submit]{
+    width: 200px;
+    background-color: #4CAF50;
+  font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+input[type=text]:hover {
+    background-color: lightyellow;
+}
+footer{
+	width: 100;
+	background-color: #4CAF50;
+  font-family: Arial, Helvetica, sans-serif;
+	height: 75px;
+	 border-radius:10px;
+}
+h1{
+	color: white;
+	font-size: 60px;
+}
+h2{
+	color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#copy {
+  position: absolute;
+  top:1000px;
+  right:0px;
+  left:0px;
+  font-family: Arial, Helvetica, sans-serif;
+  bottom:0px;
+  	 border-radius: 10px;
+  background-color: #4CAF50;
+  text-align: center;
+}
+  
+ 
+}
+
+}
+#errorCity{
+	width: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	text-align: Center;
+  
+	margin: auto;
+}
+
+#show {
+  color:	#4d0000;
+    height:600px;
+  font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    padding: 10px;
+    border: 5px solid lightyellow;
+    margin: 0;
+  border-radius: 15px;
+  text-align: left;
+   background: url("http://www.planwallpaper.com/static/images/824183-green-wallpaper.jpg");
+}
+body{
+  background: url("http://www.animateit.net/data/media/june2010/d6e5e40d22d3.gif");
+}
